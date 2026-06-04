@@ -2,8 +2,10 @@
 
 Tools Installed
 
-- Cursor IDE
-- GitHub
+• Cursor IDE
+• GitHub
+• Claude Code Extension
+• Codex Extension
 
 Steps Completed
 
@@ -12,6 +14,8 @@ Steps Completed
 3. Created a GitHub account
 4. Created a public repository
 5. Created a README file
+6. Installed Claude Code Extension
+7. Installed Codex Extension
 
 Issues Faced
 
