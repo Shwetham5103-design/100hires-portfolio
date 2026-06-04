@@ -1,15 +1,25 @@
-# 100Hires Portfolio Project
+100Hires Portfolio Project
 
-## Tools Installed
-- GitHub Mobile App
+Tools Installed
 
-## Steps Completed
-1. Created a GitHub account
-2. Created a public repository
-3. Added a README file
+- Cursor IDE
+- GitHub
 
-## Issues Faced
-- Learning how to create and manage a repository on GitHub
+Steps Completed
 
-## Solution
-- Followed instructions and completed the setup process
+1. Installed Cursor IDE
+2. Connected GitHub to Cursor
+3. Created a GitHub account
+4. Created a public repository
+5. Created a README file
+
+Issues Faced
+
+- Learning how to use Cursor IDE
+- Learning how to connect GitHub
+
+Solution
+
+- Followed the instructions provided
+- Connected GitHub successfully
+- Completed the setup process
